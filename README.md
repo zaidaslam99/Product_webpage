@@ -1,7 +1,7 @@
 
 # Perfume Webpage
 
-This project shows an understanding of Html, CSS, and JS. We are going to be advertising a perfume product on its webpage.
+This project shows an understanding of Html, CSS. We are going to be advertising a perfume product on its webpage.
 ## Screenshots
 
 ![QR_Code_Design](https://github.com/zaidaslam99/Product_webpage/blob/main/design/desktop-preview.jpg?raw=true)
